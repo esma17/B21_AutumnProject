@@ -5,7 +5,7 @@ public class file1 {
         i++;
         int y;
         y=i+2;
-        y+=y;
+        y += i;
         System.out.println(y);
     }
 }
