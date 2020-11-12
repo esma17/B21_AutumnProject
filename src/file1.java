@@ -5,6 +5,7 @@ public class file1 {
         i++;
         int y;
         y=i+2;
+        // it needs to be i
         y += i;
         System.out.println(y);
     }
